@@ -1,2 +1,2 @@
 # signal_ASIM
-Synchroniser membres de l'ASIM ensemble.
+Synchroniser les membres de l'ASIM.
